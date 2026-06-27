@@ -66,9 +66,7 @@ Then open:
 http://127.0.0.1:5000/
 ```
 
-<p align="center">
-  <img src="static/img/prediction-result.png" alt="Dashboard" width="900"/>
-</p>
+
 
 <h1 align="center">✈️ Flight Price Prediction</h1>
 
