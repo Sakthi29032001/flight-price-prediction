@@ -67,8 +67,6 @@ http://127.0.0.1:5000/
 ```
 
 <p align="center">
-  <img src="static/img/homepage.png" alt="Flight Price Prediction" width="900"/>
-  
   <img src="static/img/prediction-result.png" alt="Dashboard" width="900"/>
 </p>
 
