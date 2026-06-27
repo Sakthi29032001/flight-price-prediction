@@ -1,7 +1,7 @@
 <p align="center">
   <img src="static/img/homepage.png" alt="Flight Price Prediction" width="900"/>
   
-  <img src="static/img/prediction-results.png" alt="Flight Price Prediction" width="900"/>
+  <img src="static/img/prediction-result.png" alt="Dashboard" width="900"/>
 </p>
 
 <h1 align="center">✈️ Flight Price Prediction</h1>
