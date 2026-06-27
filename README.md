@@ -46,4 +46,12 @@ This project applies machine learning techniques to estimate flight fares using 
 Clone the repository and install dependencies:
 
 ```bash
-pip install -r requirements.txt
+python app.py
+Open browser and run:  
+http://127.0.0.1:5000/
+
+---
+
+## 👤 Author
+
+Sakthi Janani S R
