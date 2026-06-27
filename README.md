@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="static/images/ss.png" alt="Flight Price Prediction" width="700"/>
+</p>
+
+<h1 align="center">✈️ Flight Price Prediction</h1>
+
+A machine learning-based web application that predicts airline ticket fares using historical flight data.
+
+
 # ✈️ Flight Price Prediction
 
 A machine learning web application that predicts airline ticket prices based on travel details such as airline, source, destination, journey date, duration, and number of stops.
