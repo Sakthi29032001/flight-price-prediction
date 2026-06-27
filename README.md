@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="static/img/homepage.png" alt="Flight Price Prediction" width="900"/>
-  
-  <img src="static/img/prediction-result.png" alt="Dashboard" width="900"/>
-</p>
-
-<h1 align="center">✈️ Flight Price Prediction</h1>
 
 A machine learning-based web application that predicts airline ticket fares using historical flight data.
 
@@ -72,6 +65,14 @@ Then open:
 ```
 http://127.0.0.1:5000/
 ```
+
+<p align="center">
+  <img src="static/img/homepage.png" alt="Flight Price Prediction" width="900"/>
+  
+  <img src="static/img/prediction-result.png" alt="Dashboard" width="900"/>
+</p>
+
+<h1 align="center">✈️ Flight Price Prediction</h1>
 
 ## Author
 
