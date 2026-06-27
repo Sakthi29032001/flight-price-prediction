@@ -6,7 +6,7 @@ A machine learning-based web application that predicts airline ticket fares usin
 
 ## 📌 Project Overview
 
-This project applies machine learning techniques to estimate flight fares using historical flight data. The application includes a Flask-based web interface that allows users to get real-time predictions.
+This project applies machine learning techniques to estimate flight fares using historical flight data. It includes data preprocessing, feature engineering, model training, and deployment using a Flask web application.
 
 ---
 
@@ -14,7 +14,7 @@ This project applies machine learning techniques to estimate flight fares using 
 
 - Flight fare prediction using Machine Learning  
 - Interactive web interface built with Flask  
-- Feature engineering and preprocessing  
+- Data preprocessing and feature engineering  
 - Hyperparameter tuning using RandomizedSearchCV  
 - Model evaluation using R² Score  
 
@@ -41,12 +41,9 @@ This project applies machine learning techniques to estimate flight fares using 
 
 ---
 
-## 📁 Project Structure
+## ▶️ How to Run
 
-```text
-Flight Dataset/
-static/
-templates/
-app.py
-flight_rf.pkl
-requirements.txt
+Clone the repository and install dependencies:
+
+```bash
+pip install -r requirements.txt
